@@ -5,4 +5,4 @@ pub trait Meta {
 
 extern crate macros;
 
-pub use macros::{derive_meta, meta};
+pub use macros::derive_meta;

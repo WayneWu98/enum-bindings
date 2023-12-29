@@ -3,7 +3,7 @@
 version = 3
 
 [[package]]
-name = "enum-bindings"
+name = "enum-meta"
 version = "0.1.0"
 dependencies = [
  "macros",

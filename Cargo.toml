@@ -15,4 +15,4 @@ members = [
 ]
 
 [dependencies]
-macros = { path = "./macros" }
+macros = { path = "./macros", version = "*"}
